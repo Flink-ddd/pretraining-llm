@@ -1,2 +1,2 @@
 # pretraining-llm
-base transformer from 0 to 1 pretraining llm
+based on transformer from 0 to 1 pretraining llm
